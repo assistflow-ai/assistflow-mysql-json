@@ -1,0 +1,11 @@
+# Virtual environment klasörü
+venv/
+# Pycache dosyaları
+__pycache__/
+# .env dosyası
+.env
+# .streamlit/secrets.toml (varsa)
+.streamlit/secrets.toml
+venv/
+db_config.json
+.env
