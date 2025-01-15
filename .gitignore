@@ -8,4 +8,3 @@ __pycache__/
 .streamlit/secrets.toml
 venv/
 db_config.json
-.env
