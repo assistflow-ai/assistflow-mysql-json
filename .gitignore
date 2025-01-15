@@ -7,4 +7,4 @@ __pycache__/
 # .streamlit/secrets.toml (varsa)
 .streamlit/secrets.toml
 venv/
-db_config.json
+
